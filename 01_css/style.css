@@ -1,0 +1,30 @@
+html {
+  font-family: sans-serif;
+  color:#333;
+}
+.card {
+  background:#fff;
+  border:1px solid #eaeaea;
+  border-radius:5px;
+  width:320px;
+  margin:0 auto;
+}
+.card h4 {
+  font-size:1.25em;
+}
+.card ul {
+  margin:0 0 0 -40px;
+}
+.card ul li {
+  line-height:1.56em;
+  padding:1em .75em;
+}
+.card img {
+  height:auto;
+  object-fit: cover;
+  max-height:400px;
+  width:100%;
+}
+.content-container {
+  padding:1.5em;
+}
